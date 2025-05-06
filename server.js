@@ -1,6 +1,4 @@
-/**
- * Based on Traversy Media's tutorial
- */
+
 if(process.env.NODE_ENV !== 'production')
 	require('dotenv').config();
 
